@@ -19,5 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ks-bit&show_icons=true&locale=en" alt="ks-bit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ks-bit&" alt="ks-bit" /></p>
 
